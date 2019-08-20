@@ -55,7 +55,6 @@ end
 
 task :assumptions do
     puts "Release Assumptions"
-    puts "* [ ] You have pulled and reconciled origin (internal GitHub Enterprise) vs public (github.com)."
     puts "* [ ] You are on the branch and commit you want to release."
     puts "* [ ] You have already merged hotfixes and pulled changes."
     puts "* [ ] You have already reviewed the diff between the current release and the last tag, noting breaking changes in the semver and CHANGELOG."
