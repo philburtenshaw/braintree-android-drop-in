@@ -61,7 +61,7 @@ task :assumptions do
     puts "* [ ] Tests (rake integration_tests) are passing, manual verifications complete."
     puts "* [ ] Email is composed and ready to send to braintree-sdk-announce@googlegroups.com"
 
-    puts "Ready to release? "
+    puts "Ready to release? Press any key to continue. "
     $stdin.gets
 end
 
