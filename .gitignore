@@ -7,3 +7,10 @@ Gemfile.lock
 *.iml
 build
 captures
+/Demo/.idea/codeStyles/Project.xml
+/Demo/.idea/.gitignore
+/Demo/.idea/gradle.xml
+/Demo/.idea/misc.xml
+/Demo/.idea/modules.xml
+/Demo/.idea/vcs.xml
+/Demo/local.properties
